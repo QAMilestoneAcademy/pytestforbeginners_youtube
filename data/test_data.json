@@ -1,0 +1,17 @@
+[{
+		"product_name": "shoe",
+		"product_color": "black"
+	},
+	{
+		"product_name": "car",
+		"product_color": "red"
+	},
+	{
+		"product_name": "mobile",
+		"product_color": "gold"
+	},
+	{
+		"product_name": "tv",
+		"product_color": "silver"
+	}
+]
